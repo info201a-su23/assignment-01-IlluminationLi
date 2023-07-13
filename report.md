@@ -31,7 +31,7 @@
 ![Image](Image_DataVisualization.png)
 
 Image address: This image is in our reading books posted on canvas. From Data Feminism Chapter 2 Collect, Analyze, Imagine, Teach which is published on: Jul 26, 2020.
-[Image from the canvas link](https://canvas.uw.edu/courses/1643812/files?preview=107406658)
+[Image link, click it to see the image on canvas](https://canvas.uw.edu/courses/1643812/files?preview=107406658)
 
 
 7. Beneath the image, provide a 100-word summary of the visualization — what specifically does the data viz show or communicate?
@@ -46,7 +46,7 @@ Block quote:
 > Challenging power requires mobilizing data science to push back against existing and unequal power structures and to work toward more just and equitable futures.  As we will discuss in this chapter, the goal of challenging power is closely linked to the act of examining power, the first principle of data feminism
 
 The text is in our reading books assigned on canvas. From Data Feminism Chapter 2 Collect, Analyze, Imagine, Teach which is published on: Jul 26, 2020.
-[Full text from the canvas link](https://canvas.uw.edu/courses/1643812/files?preview=107406658)
+[Full text link, click this will navigate you to full text on canvas](https://canvas.uw.edu/courses/1643812/files?preview=107406658)
 Just as what the map try to show, we need data visualization and data science because it's an importance tool to challenge and resist existing power structures that are characterized by inequality. We all want a more just and equitable future.
 
 9. Create a level-2 header titled "Data Viz Biography."
@@ -77,7 +77,7 @@ The visualization is designed for various audiences, such as local residents, go
 
 **Answer**:
 
-In my answer above (Q7), I already talked about how it will be interpreted by audience. I want to mention the misinterpretation that audience may have. Since data visualization can't provide 100% data to its audience. Some of the information will be lost (those must be explained by words, such as feelings, things that can't be seen). It also means that data visualization may be oversimplification that viewers might oversimplify the complex issues presented in the visualization. As a result, it may lead to an incomplete understanding of the whole story. Since audience don't know the whole story behind the graphs, it may result in ineffective solutions being proposed. For example, police maker may think the reason black children been killed is because there is no enough traffic lights in these blocks without additional words.
+In my answer above (Q7), I already talked about how it will be interpreted by audience. I want to mention the misinterpretation that audience may have. Since data visualization can't provide 100% data to its audience. Some of the information will be lost (those must be explained by words, such as feelings, things that can't be seen). It also means that data visualization may be oversimplification that viewers might oversimplify the complex issues presented in the visualization. As a result, it may lead to an incomplete understanding of the whole story. Since audience don't know the whole story behind the graphs, it may result in ineffective solutions being proposed. For example, policy maker may think the reason black children been killed is because there is no enough traffic lights in these blocks without additional words.
 
 **5).How, if at all, does the data visualization represent power or systems?**
 **Answer**:
