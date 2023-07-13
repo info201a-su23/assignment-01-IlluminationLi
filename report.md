@@ -30,6 +30,10 @@
 
 ![Image](Image_DataVisualization.png)
 
+Image address: This image is in our reading books posted on canvas. From Data Feminism Chapter 2 Collect, Analyze, Imagine, Teach which is published on: Jul 26, 2020.
+[Image from the canvas link](https://canvas.uw.edu/courses/1643812/files?preview=107406658)
+
+
 7. Beneath the image, provide a 100-word summary of the visualization — what specifically does the data viz show or communicate?
 
 **Answer**: This map image shows where commuters run over black children on the pointes downtown Track (1971) highlighting the locations where black children had unfortunate car accidents on these streets. We can see that how white people treated the black community back in 1971. There was clear discrimination in the past years in these areas and most of the black people's rights were not be protected by the law (including their children)! It urges all people living at that time to treat people from different races equally and kindly. The map is a good data visualization in this case. We can clearly see the important role of data visualization in supportive evidence and statistics. Data visualization is the graphical representation of information and data. The image above is a useful tool that provides an easy way for readers to see and understand trends (outliers or  patterns) in data.
@@ -41,6 +45,8 @@
 Block quote:
 > Challenging power requires mobilizing data science to push back against existing and unequal power structures and to work toward more just and equitable futures.  As we will discuss in this chapter, the goal of challenging power is closely linked to the act of examining power, the first principle of data feminism
 
+The text is in our reading books assigned on canvas. From Data Feminism Chapter 2 Collect, Analyze, Imagine, Teach which is published on: Jul 26, 2020.
+[Full text from the canvas link](https://canvas.uw.edu/courses/1643812/files?preview=107406658)
 Just as what the map try to show, we need data visualization and data science because it's an importance tool to challenge and resist existing power structures that are characterized by inequality. We all want a more just and equitable future.
 
 9. Create a level-2 header titled "Data Viz Biography."
@@ -56,7 +62,9 @@ Just as what the map try to show, we need data visualization and data science be
 Reference: The image is from a report called "Field Notes No. 3: The Geography of Children” which documented the racial inequities of Detroit children. The map was created by Gwendolyn Warren, the administrative director of the Detroit Geographic Expedition and Institute (DGEI), in a collaboration between Black young adults in Detroit and white academic geographers that lasted from 1968– 1971.
 
 **2).When was it produced?**
+
 **Answer**:
+
 1971
 
 **3).Who is the audience for the visualization?**
